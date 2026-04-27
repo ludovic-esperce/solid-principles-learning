@@ -1,4 +1,4 @@
-# Découverte et application des Principes SOLID
+# Découverte et application des principes SOLID
 
 ## Objectif
 Comprendre et appliquer les **5 principes SOLID** de la programmation orientée objet, afin d’améliorer la qualité, la maintenabilité et l'évolutivité du code.
@@ -6,9 +6,9 @@ Comprendre et appliquer les **5 principes SOLID** de la programmation orientée 
 Principes SOLID :
 - **S**ingle responsability principle (principe de résponsabilité unique): une classe, une fonction ou une méthode doit avoir une et une seule unique raison d'être modifiée
 - **O**pen/closed principle (principe d'ouverture/fermeture) : une entité applicative (classe, fonction, module ...) doit être fermée à la modification directe mais ouverte à l'extension
-- **L**iskob substitution principle (principe de substitution de Liskov) : tout objet d’une classe fille doit pouvoir être substituable à un objet de sa classe mère ou une classe sœur.
-- **I**nterface segregation principle : implémenter plusieurs interfaces spécifiques pour une classe plutôt qu’une seule interface générale
-- **D**ependency inversion principle : il faut dépendre des abstractions, pas des implémentations
+- **L**iskov substitution principle (principe de substitution de Liskov) : tout objet d’une classe fille doit pouvoir être substituable à un objet de sa classe mère ou une classe sœur.
+- **I**nterface segregation principle (principe de ségrégation des interfaces) : implémenter plusieurs interfaces spécifiques pour une classe plutôt qu’une seule interface générale
+- **D**ependency inversion principle (principe d'inversion des dépendances) : il faut dépendre des abstractions, pas des implémentations
 
 ---
 
@@ -28,7 +28,7 @@ Principes SOLID :
 
 **Ressources utilisables (toute autre ressource est également exploitable)** :
 - [S - Principe de résponsabilité unique](https://softwarearchitecture.fr/fundamental_principles/solid/single_responsibility)
-- [0 - Principe d'ouverture/fermeture](https://softwarearchitecture.fr/fundamental_principles/solid/open_close)
+- [O - Principe d'ouverture/fermeture](https://softwarearchitecture.fr/fundamental_principles/solid/open_close)
 - [L - Principe de substitution de Liskov](https://cekrem.github.io/posts/liskov-substitution-the-real-meaning-of-inheritance/)
 - [I - Principe de ségrégation d'interface](https://expandtesting.com/blog/principes-solid-simplifies-segregation-interface/)
 - [D - Principe d'inversion des dépendances](https://thecodingmachine.com/quest-ce-que-linversion-des-dependances/)
